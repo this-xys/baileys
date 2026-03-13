@@ -13,19 +13,7 @@
   },
   "license": "MIT",
   "author": "this-xys",
-  "main": "./index.cjs",
-  "module": "./lib/index.js",
-  "exports": {
-    ".": {
-      "import": {
-        "default": "./lib/index.js"
-      },
-      "require": {
-        "default": "./index.cjs"
-      },
-      "default": "./lib/index.js"
-    }
-  },
+  "main": "lib/index.js",
   "files": [
     "lib/**/*",
     "WAProto/**/*",
