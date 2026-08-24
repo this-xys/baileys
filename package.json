@@ -7,9 +7,9 @@
     "whatsapp",
     "automation"
   ],
-  "homepage": "https://github.com/this-xys/WaSocket/",
+  "homepage": "https://github.com/this-xys/baileys/",
   "repository": {
-    "url": "git@github.com:this-xys/WaSocket.git"
+    "url": "git@github.com:this-xys/baileys.git"
   },
   "license": "MIT",
   "author": "this-xys",
