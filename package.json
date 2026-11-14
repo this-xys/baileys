@@ -39,7 +39,8 @@
     "sharp": ">=0.33.0",
     "ws": "^8.13.0",
     "ffmpeg-static": "*",
-    "ffprobe-static": "*"
+    "ffprobe-static": "*",
+    "bufferutil": ">=4.0.0"
   },
   "peerDependenciesMeta": {
     "@napi-rs/image": {
@@ -61,6 +62,9 @@
       "optional": true
     },
     "ffprobe-static": {
+      "optional": true
+    },
+    "bufferutil": {
       "optional": true
     }
   },
